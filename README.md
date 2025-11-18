@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science Engineering student specializing in systems programming and backend development. I’m passionate about building efficient, scalable, and reliable systems from the ground up. Skilled in C, C++, Java, and Python, I have a strong foundation in core computer science principles and a keen interest in optimizing performance and system-level design.
+I like to code, I guess.
 
 I enjoy tackling complex problems, writing clean and maintainable code, and continuously exploring how things work under the hood
 

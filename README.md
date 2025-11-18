@@ -1,8 +1,6 @@
 # 💫 About Me:
 I like to code, I guess.
 
-I enjoy tackling complex problems, writing clean and maintainable code, and continuously exploring how things work under the hood
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realninjamc) 
 
